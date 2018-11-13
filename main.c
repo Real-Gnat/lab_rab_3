@@ -91,5 +91,5 @@ int main() {
 
     write_matrix(matrix);
     result_dob(matrix);
-    return 0;
+    return 0; //done
 }
